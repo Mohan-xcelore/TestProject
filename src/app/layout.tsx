@@ -46,7 +46,7 @@ export default function RootLayout({
         {/* <p>Your browser does not support iframes.</p> */}
       </iframe>
       <Script
-        src="https://exei-bkt-important-object.s3.ap-south-1.amazonaws.com/script-qa-minified.js"
+        src="https://exei-bkt-important-object.s3.ap-south-1.amazonaws.com/script-qa-temp.js"
         strategy="afterInteractive" // Loads the script after the page becomes interactive
       />
 
