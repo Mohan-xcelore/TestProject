@@ -31,7 +31,7 @@ export default function RootLayout({
          <iframe
         id="myIframe"
         allow="microphone"
-        src="http://qa-app.exei.ai/sdk/6790fa2f0bcaccd55ebf5e04?mic=true&channelType=IFRAME&API_KEY=a801104387ac4f4d82ae1b584863f600"
+        src="https://qa-app.exei.ai/sdk/6790fa2f0bcaccd55ebf5e04?mic=true&channelType=IFRAME&API_KEY=a801104387ac4f4d82ae1b584863f600"
         style={{
           position: 'fixed',
           bottom: '85px',
